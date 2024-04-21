@@ -16,6 +16,7 @@ This file contains a list of tasks that need to be implemented for the text edit
 - [ ] Customizable themes
 - [ ] Plugin support
 - [ ] Split view for multi-file editing
+- [ ] Integrate Python Script For Config (just like vimscript)
 
 ## UI/UX Improvements
 - [ ] Responsive layout and window resizing
