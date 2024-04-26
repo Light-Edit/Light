@@ -7,8 +7,8 @@ This file contains a list of tasks that need to be implemented for the text edit
 - [x] File operations (New, Open, Save)
 - [ ] Syntax highlighting
 - [ ] Search and replace
-- [ ] Undo/Redo
-- [ ] Keyboard shortcuts for common operations (e.g., Ctrl+C, Ctrl+V)
+- [x] Undo/Redo
+- [x] Keyboard shortcuts for common operations (e.g., Ctrl+C, Ctrl+V)
 
 ## Advanced Features
 - [ ] Code completion
