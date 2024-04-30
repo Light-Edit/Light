@@ -87,7 +87,7 @@ def main(root, text, menubar):
     objFormat = Format(text)
 
     fontoptions = families(root)
-    font = Font(family="Arial", size=10)
+    font = Font(family="Arial", size=14)
     text.configure(font=font)
 
     formatMenu = Menu(menubar)
